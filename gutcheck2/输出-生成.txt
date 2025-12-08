@@ -1,0 +1,5 @@
+﻿已启动生成…
+1>------ 已启动生成: 项目: gutcheck2, 配置: Debug Win32 ------
+1>gitcheck2.c
+1>gutcheck2.vcxproj -> D:\code\C-code\gutcheck2\Debug\gutcheck2.exe
+========== 生成: 成功 1 个，失败 0 个，最新 0 个，跳过 0 个 ==========
