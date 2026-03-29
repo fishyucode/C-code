@@ -35,16 +35,16 @@ void game()
 	}
 	if(ret == '#')
 	{
-		printf("你输了");
+		printf("你输了\n");
 	}
 	else if (ret == '*')
 	{
-		printf("你赢了。但是！别骄傲！");
+		printf("你赢了。但是！别骄傲！\n");
 
 	}
 	else
 	{
-		printf("你打出了平局");
+		printf("你打出了平局\n");
 	}
 	DisplayBoard(board, ROW, COL);//打印棋盘
 
